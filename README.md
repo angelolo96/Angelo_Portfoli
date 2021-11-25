@@ -1,2 +1,2 @@
-# Angelo_Portfoli
+# Angelo_Portfolio
 Data Analysis Portfolio

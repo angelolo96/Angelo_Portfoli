@@ -12,3 +12,10 @@ Wide Table => Long Table
 * What was the original quesiton for each sub-response?
 * What was the total number of responses for each question?
 * How many people responded the same for each question?
+
+**Code and Output for Question 1: What was the original quesiton for each sub-response?**
+The output desired is an added column that maps each response to the original main question.
+
+![](https://github.com/angelolo96/Angelo_Portfolio/blob/main/images/question_code_1.png)
+
+![](https://github.com/angelolo96/Angelo_Portfolio/blob/main/images/question_output_1.png)

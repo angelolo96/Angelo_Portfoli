@@ -7,3 +7,8 @@ Presented with: Wide Dataset with unique Resp IDs and 30 Questions (some contain
 Output: Long Data set showing unpivoted Questions + Subquestions and a row for each response, plus aggregated data columns
 
 Wide Table => Long Table
+
+## Formatting requests by the business:
+* What was the original quesiton for each sub-response?
+* What was the total number of responses for each question?
+* How many people responded the same for each question?
